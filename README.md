@@ -1,5 +1,5 @@
 # COVID-19-India-Dashboard
-Covid 19 dashboard in power BI
+[Covid 19 dashboard in power BI](https://www.linkedin.com/posts/bandyopadhyay-ankan_powerbi-activity-7157398428073832448-SH0T?utm_source=share&utm_medium=member_desktop)
 
 This COVID-19 Dashboard is my second task as a #powerBI developer intern at InternCareer. The goal of this project is to create a comprehensive and informative dashboard that visualizes trends and vaccination details in India.
 
